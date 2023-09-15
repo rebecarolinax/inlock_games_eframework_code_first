@@ -11,11 +11,11 @@ namespace webapi.inlock.codefirst.Domains
 
         [Column(TypeName = "VARCHAR(100)")]
         [Required(ErrorMessage = "Nome obrigatório!")]
-        public string Nome { get; set; }
+        public string? Nome { get; set; }
 
         [Column(TypeName = "TEXT")]
         [Required(ErrorMessage = "Descrição obrigatória!!")]
-        public string Descricao { get; set; }
+        public string? Descricao { get; set; }
 
         [Column(TypeName = "DATE")]
         [Required(ErrorMessage = "Data de lançamento obrigatória!!")]
