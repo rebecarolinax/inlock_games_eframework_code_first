@@ -7,8 +7,7 @@ construir a interface com o usuário final. Para isto, deverá ser **desenvolvid
 com base nas informações fornecidas.
 
 ## Conceituando sobre a estrutura Code do Entity Framework (EF) 📏
-
-O **Entity Framework Code First** é uma abordagem de desenvolvimento de aplicativos que faz parte do Entity Framework, um framework de **mapeamento objeto-relacional (ORM**) desenvolvido pela Microsoft. O objetivo principal do Entity Framework Code First é permitir que você defina o modelo de dados do seu aplicativo usando código C# (ou outra linguagem suportada) em vez de criar um modelo de banco de dados primeiro e, em seguida, gerar classes a partir desse banco de dados.
+O **Entity Framework Code First** é uma abordagem de desenvolvimento de aplicativos que faz parte do Entity Framework, um framework de **mapeamento objeto-relacional (ORM**) desenvolvido pela Microsoft. O objetivo principal do **Entity Framework Code First** é permitir que você defina o modelo de dados do seu aplicativo usando código C# (ou outra linguagem suportada) em vez de criar um modelo de banco de dados primeiro e, em seguida, gerar classes a partir desse banco de dados.
 ##
 **Aqui estão os conceitos-chave do Entity Framework Code First:**
 
